@@ -13,3 +13,14 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# 忽略key文件
+*.keystore
+*.jks
+*.key
+*.pem
+
+# 忽略APK文件
+*.apk
+app/release/
+app/debug/
