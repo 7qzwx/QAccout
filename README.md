@@ -16,3 +16,4 @@
 - 在Build.gradle.kts（app模块）中修改命名空间等名称  ```applicationVariants.all {XXX}```
   这里配置的是打包apk的名称
 - 在Manifest中修改主题名称等
+- 在修改目录中文件夹名称
